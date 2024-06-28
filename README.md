@@ -1,4 +1,4 @@
-# Tempusai-assignment
+# Tempus AI Technical challenge
 TempusAI assignment varient annotation
 
 Project Title and overview 
