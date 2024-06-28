@@ -15,6 +15,7 @@ These documentation are key to this challenge as it guided me to appropriate end
 Required packates to install before run
 
 pip install pandas
+
 pip install requests
 
 How to run the Project?
